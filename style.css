@@ -1,0 +1,19 @@
+.main{
+    border: 2px solid gray;
+    width: 180px;
+    margin: 10px auto;
+}
+.result{
+    background-color: honeydew;
+    width: 95%;
+}
+.clrbtn{
+    background-color: honeydew;
+    width: 100%;
+    margin-top: 5px;
+}
+.btn{
+    background-color: honeydew;
+    width: 40px;
+    margin: 1px;
+}
